@@ -18,7 +18,7 @@ O jogador controla uma nave espacial e deve eliminar todas as naves inimigas ant
 
 ---
 
-## 📸 Screenshot
+## 📸 Imagem do jogo
 
 ![Gameplay](./assets/screenshot.png)
 
