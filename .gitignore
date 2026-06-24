@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+Space_invaders.egg-info/
+build/
+dist/
+*.exe
