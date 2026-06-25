@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de Programação utilizando **Python** e a biblioteca **Pygame**.
 
-O objetivo foi criar uma versão demo jogável inspirada no clássico **Space Invaders**, contendo menu principal, sistema de pontuação, condição de vitória e derrota, além de efeitos sonoros e músicas.
+O objetivo foi criar uma versão demo jogável de um jogo, contendo menu principal, sistema de pontuação, condição de vitória e derrota, além de efeitos sonoros e músicas.
 
 ---
 
