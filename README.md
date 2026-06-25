@@ -14,7 +14,7 @@ O jogador controla uma nave espacial e deve eliminar todas as naves inimigas ant
 
 - ⬅️ Seta Esquerda: mover para a esquerda
 - ➡️ Seta Direita: mover para a direita
-- ␣ Espaço: atirar
+- Tecla Espaço: atirar
 
 ---
 
